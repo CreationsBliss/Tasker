@@ -1,7 +1,9 @@
+import NavBar from "./components/NavBar/NavBar";
+
 const App = () => {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <NavBar></NavBar>
     </div>
   );
 };
