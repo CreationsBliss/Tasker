@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img src={listImage} className="max-w-sm rounded-lg" />
           <div>
-            <h1 className="text-3xl font-bold text-gray-800 dark:text-amber-500 lg:text-4xl">
+            <h1 className="text-3xl font-bold text-gray-800 dark:text-[#F1BC2D] lg:text-4xl">
               Tasker
             </h1>
             <p className="mt-4 text-sm text-gray-500 dark:text-gray-400 lg:text-base">

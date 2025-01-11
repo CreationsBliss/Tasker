@@ -6,8 +6,8 @@ const NavBar = () => {
     <div className="container mx-auto">
       <div className="navbar bg-base-100">
         <div className="flex-1">
-          <a className="text-xl">
-            <img src={logo} alt="logo" className="w-12" />
+          <a className="text-xl cursor-pointer">
+            <img src={logo} alt="logo" className="w-16" />
           </a>
         </div>
         <div className="flex-none">
